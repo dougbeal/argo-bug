@@ -1,0 +1,2 @@
+github "thoughtbot/Argo" "gf-re-add-decode-collection-functions"
+github "thoughtbot/Curry" ~> 1.2.0
